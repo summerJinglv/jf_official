@@ -1,0 +1,95 @@
+<svg id="流程图" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="898" height="435.5" viewBox="0 0 898 435.5">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>                        
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-9 {
+        fill: #ffdada;
+      }
+
+      .cls-1, .cls-2, .cls-8 {
+        stroke: #f40d33;
+        stroke-width: 1px;
+      }
+
+      .cls-1, .cls-10, .cls-2, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-8 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 4 2;
+      }
+
+      .cls-3, .cls-4, .cls-7 {
+        font-size: 16px;
+      }
+
+      .cls-10, .cls-3, .cls-4, .cls-5 {
+        fill: #f40d33;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        font-family: "Microsoft YaHei";
+      }
+
+      .cls-4, .cls-5, .cls-7 {
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        font-size: 34px;
+      }
+
+      .cls-6 {
+        font-size: 14px;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #202020;
+      }
+    </style>
+  </defs>
+  <path id="di" class="cls-1" d="M507,806H647V920H507V806Zm363,0h140V920H870V806Zm364,0h140V920H1234V806Z" transform="translate(-506.5 -758.5)"/>
+  <path id="xu" class="cls-2" d="M705,903H821v117H705V903Zm0-144H821v62H705V759Zm348,0h146v62H1053V759Zm-1,144h148v116H1052V903Zm159,125h70v30h-70v-30Zm123,0h70v30h-70v-30Z" transform="translate(-506.5 -758.5)"/>
+  <text id="提供流水_" data-name="提供流水 " class="cls-3" x="224.59" y="37.095">提供流水 </text>
+  <text id="游戏数据接口" class="cls-3" x="208.589" y="169.092">游戏数据接口</text>
+  <text id="用户数据" class="cls-3" x="224.59" y="195.093">用户数据</text>
+  <text id="充值数据" class="cls-3" x="224.59" y="222.094">充值数据</text>
+  <text id="游戏分包" class="cls-3" x="223.59" y="248.094">游戏分包</text>
+  <text id="公会OA助手" class="cls-4" x="386.59" y="146.093">公会OA助手</text>
+  <text id="OA" class="cls-5" x="407.589" y="100.095">OA</text>
+  <text id="入驻平台" class="cls-3" x="586.589" y="24.094">入驻平台</text>
+  <text id="贡献流水" class="cls-3" x="586.589" y="49.093">贡献流水</text>
+  <g id="组_1" data-name="组 1">
+    <text id="提供公会管理工具" class="cls-3" x="555.59" y="181.093">提供公会管理工具</text>
+    <text id="财务结算" class="cls-3" x="587.589" y="207.094">财务结算</text>
+    <text id="数据查询" class="cls-3" x="587.589" y="234.094">数据查询</text>
+  </g>
+  <text id="与推广渠道确定分成" class="cls-6" x="552.589" y="110.094">与推广渠道确定分成</text>
+  <text id="公会" class="cls-4" x="781.59" y="146.093">公会</text>
+  <text id="分配任务" class="cls-3" x="707.589" y="290.094">分配任务</text>
+  <text id="推广游戏" class="cls-3" x="830.59" y="290.094">推广游戏</text>
+  <image id="管理员_拷贝" data-name="管理员 拷贝" x="772.5" y="336.5" width="50" height="60" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAA8CAMAAAAT6xnzAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAk1BMVEX3CDD0CzD1DDD1CzD/ADD2CzD0DDD3DDD1CjD/ADD0CzD1DDD0DDD1CzD1CzD0CzD2CzD0DDD3DDD3CDD1CzD0CzD0CzD1CzD1DDD1CzD0DDD0DDD1CjD1DDD0CzD2CzD1CzD1CjD1CzH1Cy/1DDD1CzD1CzD0CzD1Cy/0DC/0DC/1Ci/1DDD1DDD2CzD2DDAAAAC1xrIHAAAALXRSTlMAAAAAAAAAAAAQX3+/z58wb+9AIN+PYNCAoPDAULCQcOBP5/fc4fXx5/Lt4q/3rdBlAAAAAWJLR0Qwrtwt5AAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB+IBEBEZGG+plg8AAANISURBVEjHhZYLt6IgEMdB8MHN9KqtmZq17/bh7ft/u2UGkDGpndM51cgPZoCZv4w545HgXEQyFuptl+f7PC92ZSLShHEhufTGHhH1vp+9VUX9X2RXzQ+WNy+R8jAH7NMLpLVjjl1dl3Xdnnrzf6+eIQU+7zslojTl+iOSejAplWGkw6ediqRH0qQ+gvegQghG1Y+RXCOpOpvYtkiDRJltEBmd4NHEnbHUWo4EDyEC1ykfkRq8LQ8hUirIJ3eTu7hgkYE/QSROWK+Rxi8dQlLY65MwxmK0i3adeQDJjI2w0S4XQ+5NJhbaIlnvN4BFaBBX48/IId5gozsz1u4YIGyDRN66RwR2ZEiIIZIRg2TOL5EEEGpkxDMEV3qCLMdyENTgWUzs4q+ZzRfSJ5FHwswXTt9MetWecYvEyx6Sg2N+2ydXEGKL4IWyJcPIhVBbRKTGBXENcoXghejQEwUQBa3qYneCkfQqFUCSOOXZBPXngmD2W8Eyuc4qhEDY80U+IBK7RRFESgjrGm8QPhhmi9TVqvT5gpgC183nEXmfZ1pMFJElttNqpyhS5/O6Ja0QXh6tQHy2SOOE48KfINw0Rowv1+Z0o6/jFWK+9O7qnzJqr1utODUpixO5TE+RhIu3w5evH2T4x1zNRSOeI29Gkb7197vm7vf5+w90FM0TpMnd3D9vv2632+/qzyKZ70Gktdkep3K0IwfVnq2Q5WqLFHZUrUXWnKouOskj1RloXz4ihQWSVCP2JrSZRqSDqnKNGGKCtg2IhCo8oYDqOxfZe9FQxIheyxGBwu1cx0WEu/vnkdKIHkdkKXVchiEisTnMf7nTygiPY+QGgTkmkz42dkRcdg7BKC6ZQdCM2lvdQkSqqyt1iAIO5BwbxLe1pdcZRGL0E8YqIczeiotF7LnYnmIQfnKxSoXz2RZHBMgXL+0oemGGDXppOERNdIfgKwT73yHLmNzT3uomXFXvyjtmTK3ah3s6UKFPqXfibCQRcE7lpF/0iHqHhE3kJUCsXoLC3jllA2nQsdeTK9WbxYvhIrIEnS4RToucaFvkEwezaoWQGE4yjIy4VrpFWClIgyNr61OHI/UqSl41PbIW2RZeKUmL5iGEHPFxPqp/aYmg9MtwJZwAAAAASUVORK5CYII="/>
+  <text id="推广员" class="cls-7" x="773.589" y="421.092">推广员</text>
+  <path id="形状_1" data-name="形状 1" class="cls-8" d="M1256.92,1139H1198" transform="translate(-506.5 -758.5)"/>
+  <path id="矩形_12" data-name="矩形 12" class="cls-8" d="M1135,1099h64v80h-64" transform="translate(-506.5 -758.5)"/>
+  <text id="玩家" class="cls-7" x="542.59" y="350.093">玩家</text>
+  <image id="用户_1_拷贝_3" data-name="用户 (1) 拷贝 3" x="583.5" y="328.5" width="32" height="32" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAdVBMVEX/ADD0CzD1DDD3CDD1CzD0DDD3DDD1CjD2CzD3DDH1CjD1CzD0DDD1CzD0CzD1CjD3CDD0DDD/ADD1DDD1DDD1DDD0CzD3DDD1CzD0DDD0CzD1DDD1CzD1CzD1CzD2CzD0DDD0CzD2CzD3DDH0CzD1DDAAAABv8AcVAAAAJXRSTlMAAAAAAAAAAAAAUJ+/z49PIO8Qf7CAYEDg8DCv39CgcMCQbz9f5kCZIwAAAAFiS0dEJloImLUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfiARARGRhvqZYPAAACB0lEQVQ4y12T65qjIAyGCSfR0RnFIuLaVtvN/d/iJqD1meUPD+Ql+chBCFoghFRaNl9th9i13z8GhDR8fSwG+i+81vDt/wP8OND9LUwxTuHGyPgL8OR6nrwEaYy20k8JsfUXsNDzoEHp6U/bfkV66wPiupx2P2BapBB9VxS0njQ1CVd/2Duyg2SOVIQ7fcQLWS0JW3ollCJvC4BSN0xRSqkbiidlBbwz0A8Y2N4jNpaBil5Ya4H2gYLoB84SwLknpooBiokYraU9kStRJZwAyBBwM8YAGcSMTVXR/sQBBEVi0QysIBxYqSB7UDnqIh5441QBLHzKwITYq7zuuIuNJZMIgJm+xwCpvrG1hBV3lpAXuRheS6SqpL7YM5DjsWaSk0om06IoKt9GHA4gV2w8iz1qUYiISaQTWFZ6+wi52B1X4QiRRR4VexpNt1zJzn+Anb9JPjYK7TIgJP1z/3xz4oRzNIxwAvAsmciJ8pxqTRXZ7AW4masgAs7UVQ9cnTOppCMDtO9UGJZFGPt5Onmkw9a1LQlACQGTLw2TAb6XdV27ktUE09EwSi7O2cgdYDIgNQWZInXyVlqONNFea7gAR0074D037QH49y+A034vbc8AddKG619/Av5FDb4dg8MArSkPxPh+v18jj0cK5+gdAPSPdA1vCtfwnoDSptm3mVxvezTyM/7/ALEjN47Q7bFiAAAAAElFTkSuQmCC"/>
+  <image id="用户_1_拷贝_4" data-name="用户 (1) 拷贝 4" x="583.5" y="403.5" width="32" height="32" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAdVBMVEX/ADD0CzD1DDD3CDD1CzD0DDD3DDD1CjD2CzD3DDH1CjD1CzD0DDD1CzD0CzD1CjD3CDD0DDD/ADD1DDD1DDD1DDD0CzD3DDD1CzD0DDD0CzD1DDD1CzD1CzD1CzD2CzD0DDD0CzD2CzD3DDH0CzD1DDAAAABv8AcVAAAAJXRSTlMAAAAAAAAAAAAAUJ+/z49PIO8Qf7CAYEDg8DCv39CgcMCQbz9f5kCZIwAAAAFiS0dEJloImLUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfiARARGRf/FoueAAACB0lEQVQ4y12T65qjIAyGCSfR0RnFIuLaVtvN/d/iJqD1meUPD+Ql+chBCFoghFRaNl9th9i13z8GhDR8fSwG+i+81vDt/wP8OND9LUwxTuHGyPgL8OR6nrwEaYy20k8JsfUXsNDzoEHp6U/bfkV66wPiupx2P2BapBB9VxS0njQ1CVd/2Duyg2SOVIQ7fcQLWS0JW3ollCJvC4BSN0xRSqkbiidlBbwz0A8Y2N4jNpaBil5Ya4H2gYLoB84SwLknpooBiokYraU9kStRJZwAyBBwM8YAGcSMTVXR/sQBBEVi0QysIBxYqSB7UDnqIh5441QBLHzKwITYq7zuuIuNJZMIgJm+xwCpvrG1hBV3lpAXuRheS6SqpL7YM5DjsWaSk0om06IoKt9GHA4gV2w8iz1qUYiISaQTWFZ6+wi52B1X4QiRRR4VexpNt1zJzn+Anb9JPjYK7TIgJP1z/3xz4oRzNIxwAvAsmciJ8pxqTRXZ7AW4masgAs7UVQ9cnTOppCMDtO9UGJZFGPt5Onmkw9a1LQlACQGTLw2TAb6XdV27ktUE09EwSi7O2cgdYDIgNQWZInXyVlqONNFea7gAR0074D037QH49y+A034vbc8AddKG619/Av5FDb4dg8MArSkPxPh+v18jj0cK5+gdAPSPdA1vCtfwnoDSptm3mVxvezTyM/7/ALEjN47Q7bFiAAAAAElFTkSuQmCC"/>
+  <text id="玩家-2" data-name="玩家" class="cls-7" x="542.59" y="425.094">玩家</text>
+  <path id="箭头" class="cls-9" d="M682.994,883H829.156l-6.113,6h4.321l7.642-7.5-7.642-7.5h-4.321l6.113,6H682.994v3Zm152.012-39H688.844l6.113,6h-4.321l-7.642-7.5,7.642-7.5h4.321l-6.113,6H835.006v3Z" transform="translate(-506.5 -758.5)"/>
+  <path id="箭头_拷贝" data-name="箭头 拷贝" class="cls-9" d="M1046.99,883h146.17l-6.12,6h4.32l7.65-7.5-7.65-7.5h-4.32l6.12,6H1046.99v3Zm152.02-39H1052.84l6.12,6h-4.32l-7.65-7.5,7.65-7.5h4.32l-6.12,6h146.17v3Z" transform="translate(-506.5 -758.5)"/>
+  <path id="箭头_拷贝_2" data-name="箭头 拷贝 2" class="cls-9" d="M1290,954.994V1071.16l-6-6.12v4.32l7.5,7.65,7.5-7.65v-4.32l-6,6.12V954.994h-3Zm29,122.016V960.844l-6,6.113v-4.321l7.5-7.642,7.5,7.642v4.321l-6-6.113V1077.01h-3Z" transform="translate(-506.5 -758.5)"/>
+  <image id="渠道" x="48.5" y="59.5" width="55" height="56" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAA4CAMAAABuU5ChAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAilBMVEX3CDDzDDD0CzL0DDL1DDL/ADD0CzD0DTL0DTPzDDP1DTPzDDL3DDH0CzPzDTP0DDP1DTD3DDH0CzD/ADD1DDL0DTLzDDPzDDDzDTL0DDP0DDL1DTPzDDL0DTP3CDDzDDL0DTL0CzL0DDLzDTP0CzL0DTL0CzP0DDPzDDP0CzP1DTD0DDL0DTMAAABCZxoxAAAALHRSTlMAAAAAAAAAAAAAAAAAAAAAAD8wEH/fr0Dvz5BQwKAggOBw0PBgn1+/sG9Pj5yvEokAAAABYktHRC3N2kE9AAAACXBIWXMAAAsSAAALEgHS3X78AAAAB3RJTUUH4gEQERkX/xaLngAAA4tJREFUSMeV1tliqjAQANAQyCKo1ATENajg0l7+//vuTEIAlaqdl1bMIetMJMRFQEMaRMxFwFkk5ELJSTBhPqKAUhqTh3hwOssbiGXxN6dWTRtL/QdXNH2s9cdOY28bJeV2h/+4BvyVIxJjD62LkEsZJ/iv+cAFGNBdGTgnD9BhiPHe4exgUugoPTbNLoHgrx1x7sTQ+Zfg2D9zObipJL3j7xzpxgluxlg7zpeuyIztsIJ1ocI6ndt1Aaay4hdXw/iEgJeX0GFtnV66fRBCwAvqUbeBJgchcN+hw+a8kOaSt/s+n8/xWT3ioLemUjAggKrqz9kuxE2HcVr45ArP0HF18GyTtM7B7QMzK8+s46I+4Yv2Rdg5C1fGi9jGFY8kHzgaSi3nMhg4jmO6Unf2ndviiIIHxx5dgAt9bB3FgHU7he9dAnm10r3DtSyCNsZctwzQsMRjnthXrWG5g08cgXzM7Qjt1uACx128csbuPjp3rg7xZ47ADG8TCJKm6drntIsnRwcBS7HC2eD5vx8mdPiiP9MuYZ9vg3jhCJzAI86vqwsOjDj7KKZc+mKHO0EgbU5uiWjkHRs65l3qjvfpZM8oPAsloCkRvWO9YwM3iwCGbuCtm9475h27d9Fs6GapfHSMoes/dY5MeOtIOuruY+goHA3vFgvz1plLll3MwF3WWBLyTL9y6treiKp1Zu2LSa5+d3VfqmrrdN4/WanfHFaE5rDb2YK1xTqB3d8KKQ3edbkeZ3iVVlsoyqKubM4TfNFxEkhJZN1l81OUWO5idFTZVuQGuU6do5jNgyM86A/mUnLneIn3AVnZBEbnksSMOQ1fYHW1FxN2yIkvSfYUDOvTMDDV8Psoalsp35TzL3jVnUvTu2w13hnb38GOc2adGmYwFJBUegiLWDM4iZEgDJavmtvKJgS6dLbsMhiS1LmvLltz7RxuyV4S7OPs3HfjagB237nQ3Sn4y8mgs6cLxsztdl+U+sEDcALE5WToxHQKEG/V5pxlZ/xb4mLrU3/OKpz8s6OQ5fu+1T6xm6S7Rztk6YijPJTH9hKujtI5Jos9PKtuBX5ORx2UDTqvN7vdvta0cwFUEjmfBAmyVD24xQKXChwNk0RSNuagLSzP8lu1zvz8cz9A3jjYKj/Z6/XqE3qPW/jK4bWyaR7DLhd550K93Rz6nbkdTUI+ciwOhSyKbVluCzOfwBU54v4DoCeWA46Z9FkAAAAASUVORK5CYII="/>
+  <path id="公会ICON" class="cls-10" d="M1281.16,830.768a4.02,4.02,0,0,0,.87-0.421l3.28-2.077-0.15.082c0.15-.067.43-0.193,0.84-0.358,0.68-.279,1.45-0.559,2.28-0.82a23.05,23.05,0,0,1,6.67-1.18,9.818,9.818,0,0,1,4.85,1.057c7.74,4.265,16.19,3.509,21.64-2.756a0.3,0.3,0,0,1-.11.075,1.144,1.144,0,0,1-.72.113,1.108,1.108,0,0,1-.59-0.286,0.591,0.591,0,0,1-.08-0.106,4.79,4.79,0,0,1,.24,1.227,17.673,17.673,0,0,1,.08,1.826v23.237l0.21-.657c-0.04.047-.14,0.172-0.31,0.352a6.483,6.483,0,0,1-1.14.949c-2.35,1.547-5.65,2-10.18.612-5.8-1.775-11.22-1.5-15.31.418-3.75,1.756-5.89,4.766-4.95,7.357l1.33,1.745c0-2.862,2.17-5.612,4.86-6.87,3.42-1.6,8.08-1.841,13.2-.273,5.37,1.643,9.58,1.063,12.64-.954a7.966,7.966,0,0,0,2.18-2.022l0.2-.3V827.159a20.1,20.1,0,0,0-.1-2.074,6.048,6.048,0,0,0-.47-2.032,1.809,1.809,0,0,0-3.11-.324c-4.54,5.213-11.47,5.833-18.1,2.173a12.707,12.707,0,0,0-6.28-1.414,25.871,25.871,0,0,0-7.54,1.317c-0.9.285-1.74,0.591-2.5,0.9-0.45.186-.79,0.333-0.98,0.422l-0.14.082-2.69,1.7a0.512,0.512,0,0,1-.11.054h0a8.329,8.329,0,0,1-2.98.551h0l1.07,2.649,0.84-.1a5.9,5.9,0,0,0,1.25-.285S1281.16,830.77,1281.16,830.768Zm-3.73-3.9-2.43.935,19.11,46.2,2.44-.935Z" transform="translate(-506.5 -758.5)"/>
+  <text id="手游渠道" class="cls-4" x="39.623" y="146.289">手游渠道</text>
+</svg>

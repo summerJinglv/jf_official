@@ -1,0 +1,139 @@
+<svg id="流程图" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="914" height="552" viewBox="0 0 914 552">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-6 {
+        fill: #ffdada;
+      }
+
+      .cls-1, .cls-2, .cls-7 {
+        stroke: #f40d33;
+        stroke-width: 1px;
+      }
+
+      .cls-1, .cls-2, .cls-6, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3 {
+        font-size: 34px;
+      }
+
+      .cls-10, .cls-12, .cls-3 {
+        fill: #f50c30;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-3, .cls-4, .cls-5, .cls-8, .cls-9 {
+        font-family: "Microsoft YaHei";
+      }
+
+      .cls-10, .cls-3, .cls-9 {
+        font-weight: 700;
+      }
+
+      .cls-10, .cls-4, .cls-8, .cls-9 {
+        font-size: 16px;
+      }
+
+      .cls-4, .cls-5, .cls-9 {
+        fill: #202020;
+      }
+
+      .cls-11, .cls-12, .cls-5 {
+        font-size: 14px;
+      }
+
+      .cls-7 {
+        stroke-dasharray: 4 2;
+      }
+
+      .cls-11, .cls-8 {
+        fill: #f40d33;
+      }
+    </style>
+    <image id="image" width="50" height="60" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAA8CAMAAAAT6xnzAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAk1BMVEX3CDD0CzD1DDD1CzD/ADD2CzD0DDD3DDD1CjD/ADD0CzD1DDD0DDD1CzD1CzD0CzD2CzD0DDD3DDD3CDD1CzD0CzD0CzD1CzD1DDD1CzD0DDD0DDD1CjD1DDD0CzD2CzD1CzD1CjD1CzH1Cy/1DDD1CzD1CzD0CzD1Cy/0DC/0DC/1Ci/1DDD1DDD2CzD2DDAAAAC1xrIHAAAALXRSTlMAAAAAAAAAAAAQX3+/z58wb+9AIN+PYNCAoPDAULCQcOBP5/fc4fXx5/Lt4q/3rdBlAAAAAWJLR0Qwrtwt5AAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB+IBEBEQFlnTAEEAAANISURBVEjHhZYLt6IgEMdB8MHN9KqtmZq17/bh7ft/u2UGkDGpndM51cgPZoCZv4w545HgXEQyFuptl+f7PC92ZSLShHEhufTGHhH1vp+9VUX9X2RXzQ+WNy+R8jAH7NMLpLVjjl1dl3Xdnnrzf6+eIQU+7zslojTl+iOSejAplWGkw6ediqRH0qQ+gvegQghG1Y+RXCOpOpvYtkiDRJltEBmd4NHEnbHUWo4EDyEC1ykfkRq8LQ8hUirIJ3eTu7hgkYE/QSROWK+Rxi8dQlLY65MwxmK0i3adeQDJjI2w0S4XQ+5NJhbaIlnvN4BFaBBX48/IId5gozsz1u4YIGyDRN66RwR2ZEiIIZIRg2TOL5EEEGpkxDMEV3qCLMdyENTgWUzs4q+ZzRfSJ5FHwswXTt9MetWecYvEyx6Sg2N+2ydXEGKL4IWyJcPIhVBbRKTGBXENcoXghejQEwUQBa3qYneCkfQqFUCSOOXZBPXngmD2W8Eyuc4qhEDY80U+IBK7RRFESgjrGm8QPhhmi9TVqvT5gpgC183nEXmfZ1pMFJElttNqpyhS5/O6Ja0QXh6tQHy2SOOE48KfINw0Rowv1+Z0o6/jFWK+9O7qnzJqr1utODUpixO5TE+RhIu3w5evH2T4x1zNRSOeI29Gkb7197vm7vf5+w90FM0TpMnd3D9vv2632+/qzyKZ70Gktdkep3K0IwfVnq2Q5WqLFHZUrUXWnKouOskj1RloXz4ihQWSVCP2JrSZRqSDqnKNGGKCtg2IhCo8oYDqOxfZe9FQxIheyxGBwu1cx0WEu/vnkdKIHkdkKXVchiEisTnMf7nTygiPY+QGgTkmkz42dkRcdg7BKC6ZQdCM2lvdQkSqqyt1iAIO5BwbxLe1pdcZRGL0E8YqIczeiotF7LnYnmIQfnKxSoXz2RZHBMgXL+0oemGGDXppOERNdIfgKwT73yHLmNzT3uomXFXvyjtmTK3ah3s6UKFPqXfibCQRcE7lpF/0iHqHhE3kJUCsXoLC3jllA2nQsdeTK9WbxYvhIrIEnS4RToucaFvkEwezaoWQGE4yjIy4VrpFWClIgyNr61OHI/UqSl41PbIW2RZeKUmL5iGEHPFxPqp/aYmg9MtwJZwAAAAASUVORK5CYII="/>
+    <image id="image-2" width="32" height="32" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAdVBMVEX/ADD0CzD1DDD3CDD1CzD0DDD3DDD1CjD2CzD3DDH1CjD1CzD0DDD1CzD0CzD1CjD3CDD0DDD/ADD1DDD1DDD1DDD0CzD3DDD1CzD0DDD0CzD1DDD1CzD1CzD1CzD2CzD0DDD0CzD2CzD3DDH0CzD1DDAAAABv8AcVAAAAJXRSTlMAAAAAAAAAAAAAUJ+/z49PIO8Qf7CAYEDg8DCv39CgcMCQbz9f5kCZIwAAAAFiS0dEJloImLUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfiARAREBZZ0wBBAAACB0lEQVQ4y12T65qjIAyGCSfR0RnFIuLaVtvN/d/iJqD1meUPD+Ql+chBCFoghFRaNl9th9i13z8GhDR8fSwG+i+81vDt/wP8OND9LUwxTuHGyPgL8OR6nrwEaYy20k8JsfUXsNDzoEHp6U/bfkV66wPiupx2P2BapBB9VxS0njQ1CVd/2Duyg2SOVIQ7fcQLWS0JW3ollCJvC4BSN0xRSqkbiidlBbwz0A8Y2N4jNpaBil5Ya4H2gYLoB84SwLknpooBiokYraU9kStRJZwAyBBwM8YAGcSMTVXR/sQBBEVi0QysIBxYqSB7UDnqIh5441QBLHzKwITYq7zuuIuNJZMIgJm+xwCpvrG1hBV3lpAXuRheS6SqpL7YM5DjsWaSk0om06IoKt9GHA4gV2w8iz1qUYiISaQTWFZ6+wi52B1X4QiRRR4VexpNt1zJzn+Anb9JPjYK7TIgJP1z/3xz4oRzNIxwAvAsmciJ8pxqTRXZ7AW4masgAs7UVQ9cnTOppCMDtO9UGJZFGPt5Onmkw9a1LQlACQGTLw2TAb6XdV27ktUE09EwSi7O2cgdYDIgNQWZInXyVlqONNFea7gAR0074D037QH49y+A034vbc8AddKG619/Av5FDb4dg8MArSkPxPh+v18jj0cK5+gdAPSPdA1vCtfwnoDSptm3mVxvezTyM/7/ALEjN47Q7bFiAAAAAElFTkSuQmCC"/>
+  </defs>
+  <path id="矩形_13" data-name="矩形 13" class="cls-1" d="M477,931H617v114H477V931Zm361,0H978v114H838V931Zm361,0h140v114H1199V931Z" transform="translate(-476.5 -757)"/>
+  <path id="矩形_11" data-name="矩形 11" class="cls-2" d="M839,1085H978a2,2,0,0,1,2,2v100a2,2,0,0,1-2,2H839a2,2,0,0,1-2-2V1087A2,2,0,0,1,839,1085Z" transform="translate(-476.5 -757)"/>
+  <image id="推广" x="765.5" y="190" width="58" height="58" xlink:href="data:img/png;base64,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"/>
+  <use id="管理员" x="408.5" xlink:href="#image"/>
+  <use id="管理员_拷贝" data-name="管理员 拷贝" x="768.5" xlink:href="#image"/>
+  <text id="SDK" class="cls-3" x="394.996" y="232.094">SDK</text>
+  <text id="PC官网_拷贝" data-name="PC官网 拷贝" class="cls-4" x="404.118" y="356.285">PC官网</text>
+  <text id="安卓客户端_拷贝" data-name="安卓客户端 拷贝" class="cls-4" x="392.118" y="387.285">安卓客户端</text>
+  <text id="IOS客户端_拷贝" data-name="IOS客户端 拷贝" class="cls-4" x="392.118" y="417.283">IOS客户端</text>
+  <path id="形状_1" data-name="形状 1" class="cls-2" d="M909,1055v29.58m0,104.5V1240" transform="translate(-476.5 -757)"/>
+  <path id="矩形_12" data-name="矩形 12" class="cls-2" d="M839,1239v-20H979v20" transform="translate(-476.5 -757)"/>
+  <path id="矩形_11_拷贝" data-name="矩形 11 拷贝" class="cls-2" d="M1200,1085h139a2.006,2.006,0,0,1,2,2v100a2.006,2.006,0,0,1-2,2H1200a2.006,2.006,0,0,1-2-2V1087A2.006,2.006,0,0,1,1200,1085Z" transform="translate(-476.5 -757)"/>
+  <text id="PC官网_拷贝_2" data-name="PC官网 拷贝 2" class="cls-4" x="765.118" y="356.285">PC官网</text>
+  <text id="安卓客户端_拷贝_2" data-name="安卓客户端 拷贝 2" class="cls-4" x="753.118" y="387.285">安卓客户端</text>
+  <text id="IOS客户端_拷贝_2" data-name="IOS客户端 拷贝 2" class="cls-4" x="753.118" y="417.283">IOS客户端</text>
+  <path id="形状_1_拷贝" data-name="形状 1 拷贝" class="cls-2" d="M1270,1055v29.58m0,104.5V1240" transform="translate(-476.5 -757)"/>
+  <path id="矩形_12_拷贝" data-name="矩形 12 拷贝" class="cls-2" d="M1200,1239v-20h140v20" transform="translate(-476.5 -757)"/>
+  <text id="管理维护" class="cls-5" x="349.117" y="123.285">管理维护</text>
+  <text id="管理后台" class="cls-5" x="462.117" y="123.285">管理后台</text>
+  <path id="箭头" class="cls-6" d="M651.994,1014H798.156l-6.113,6h4.321l7.642-7.5-7.642-7.5h-4.321l6.113,6H651.994v3Zm152.012-49H657.844l6.113,6h-4.321l-7.642-7.5,7.642-7.5h4.321l-6.113,6H804.006v3Z" transform="translate(-476.5 -757)"/>
+  <path id="箭头_拷贝" data-name="箭头 拷贝" class="cls-6" d="M1011.99,1014h146.17l-6.12,6h4.32l7.65-7.5-7.65-7.5h-4.32l6.12,6H1011.99v3Zm152.02-49H1017.84l6.12,6h-4.32l-7.65-7.5,7.65-7.5h4.32l-6.12,6h146.17v3Z" transform="translate(-476.5 -757)"/>
+  <path id="箭头-2" data-name="箭头" class="cls-6" d="M893,853.994v36.162l-6-6.113v4.321l7.5,7.642,7.5-7.642v-4.321l-6,6.113V853.994h-3Zm31,42.012V859.844l-6,6.113v-4.321l7.5-7.642,7.5,7.642v4.321l-6-6.113v36.162h-3Z" transform="translate(-476.5 -757)"/>
+  <path id="箭头-3" data-name="箭头" class="cls-6" d="M1253,853.994v36.162l-6-6.113v4.321l7.5,7.642,7.5-7.642v-4.321l-6,6.113V853.994h-3Zm31,42.012V859.844l-6,6.113v-4.321l7.5-7.642,7.5,7.642v4.321l-6-6.113v36.162h-3Z" transform="translate(-476.5 -757)"/>
+  <path id="line" class="cls-7" d="M1303,835h87v304h-51" transform="translate(-476.5 -757)"/>
+  <text id="提供游戏母包" class="cls-8" x="203.912" y="286.222">提供游戏母包</text>
+  <text id="提供收益" class="cls-8" x="576.912" y="187.225">提供收益</text>
+  <text id="提供游戏分包" class="cls-8" x="560.911" y="286.222">提供游戏分包</text>
+  <text id="确定游戏分成" class="cls-5" x="211.91" y="236.224">确定游戏分成</text>
+  <text id="与推广渠道确定分成" class="cls-5" x="545.912" y="236.224">与推广渠道确定分成</text>
+  <image id="开发者_icon" data-name="开发者 icon" x="42.5" y="191" width="54" height="56" xlink:href="data:img/png;base64,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"/>
+  <use id="用户_1_" data-name="用户 (1)" x="346.5" y="493" xlink:href="#image-2"/>
+  <use id="用户_1_拷贝" data-name="用户 (1) 拷贝" x="416.5" y="493" xlink:href="#image-2"/>
+  <use id="用户_1_拷贝_2" data-name="用户 (1) 拷贝 2" x="486.5" y="493" xlink:href="#image-2"/>
+  <use id="用户_1_拷贝_3" data-name="用户 (1) 拷贝 3" x="706.5" y="493" xlink:href="#image-2"/>
+  <use id="用户_1_拷贝_3-2" data-name="用户 (1) 拷贝 3" x="776.5" y="493" xlink:href="#image-2"/>
+  <use id="用户_1_拷贝_3-3" data-name="用户 (1) 拷贝 3" x="846.5" y="493" xlink:href="#image-2"/>
+  <text id="管理员-2" data-name="管理员" class="cls-9" x="409.117" y="84.283">管理员</text>
+  <text id="推广员" class="cls-9" x="769.117" y="84.283">推广员</text>
+  <text id="推广联盟" class="cls-10" x="763.117" y="275.286">推广联盟</text>
+  <text id="玩家" class="cls-9" x="348.117" y="549.283">玩家</text>
+  <text id="玩家-2" data-name="玩家" class="cls-9" x="416.118" y="549.283">玩家</text>
+  <text id="玩家-3" data-name="玩家" class="cls-9" x="488.118" y="549.283">玩家</text>
+  <text id="绝峰SDK" class="cls-10" x="398.118" y="275.286">绝峰SDK</text>
+  <text id="游戏开发商" class="cls-10" x="30.405" y="275.099">游戏开发商</text>
+  <text id="玩家-4" data-name="玩家" class="cls-9" x="708.117" y="549.283">玩家</text>
+  <text id="玩家-5" data-name="玩家" class="cls-9" x="776.118" y="549.283">玩家</text>
+  <text id="玩家-6" data-name="玩家" class="cls-9" x="848.118" y="549.283">玩家</text>
+  <path id="矩形_19" data-name="矩形 19" class="cls-7" d="M672,922H784v30H672V922Zm0,101H784v30H672v-30Zm357,0h112v30H1029v-30Zm0-100h112v30H1029V923Zm138-62h70v30h-70V861Zm137,0h70v30h-70V861Z" transform="translate(-476.5 -757)"/>
+  <text id="渠道SDK" class="cls-8" x="217.91" y="185.223">渠道SDK</text>
+  <text id="入驻" class="cls-11" x="712.118" y="123.285">入驻</text>
+  <text id="提供分包" class="cls-12" x="835.117" y="123.285">提供分包</text>
+</svg>
